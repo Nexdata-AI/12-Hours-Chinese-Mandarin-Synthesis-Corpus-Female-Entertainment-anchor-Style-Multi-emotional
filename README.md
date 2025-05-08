@@ -1,4 +1,4 @@
-# 12-Hours---Chinese-Mandarin-Synthesis-Corpus-Female-Entertainment-anchor-Style-Multi-emotional
+# 12-Hours-Chinese-Mandarin-Synthesis-Corpus-Female-Entertainment-anchor-Style-Multi-emotional
 
 ## Description
 12 Hours - Chinese Mandarin Entertainment anchor Style Multi-emotional Synthesis Corpus. It is recorded by Chinese native speaker. six emotional text+modal particles, phonemes and tones are balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
