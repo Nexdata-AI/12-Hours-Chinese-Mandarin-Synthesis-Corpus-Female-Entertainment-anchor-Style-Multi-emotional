@@ -3,7 +3,7 @@
 ## Description
 12 Hours - Chinese Mandarin Entertainment anchor Style Multi-emotional Synthesis Corpus. It is recorded by Chinese native speaker. six emotional text+modal particles, phonemes and tones are balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1304?source=Github
+For more details, please refer to the link:  https://www.nexdata.ai/datasets/tts/1304?source=Github
 
 ## Specifications
 ### Format
